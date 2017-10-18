@@ -13,7 +13,7 @@ Web Application Development
 (Create a web program that calcuated the users monthly expense)
 
 ### View Project:
-(https://dw16f.github.io/lesson4_javascript1/)
+https://github.com/dw16f/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
 1. (I learned what javascript is)
